@@ -13,7 +13,7 @@
 
 ### How to use:
 
-1. Use `/disarm` to disarm yourself or someone else.
+1. Use `/disarm <player>` to disarm yourself or someone else.
 
 
 ### Requirements:
