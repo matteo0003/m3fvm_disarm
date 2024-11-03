@@ -8,3 +8,7 @@ version "1.0.0"
 server_scripts {
 	"server/server.lua",
 }
+
+dependencies {
+	"ox_inventory",
+}

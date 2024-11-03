@@ -43,5 +43,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-[license-shield]: https://img.shields.io/github/license/matteo0003/m3fvm_carkey.svg?style=for-the-badge
-[license-url]: https://github.com/matteo0003/m3fvm_carkey/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/matteo0003/m3fvm_disarm.svg?style=for-the-badge
+[license-url]: https://github.com/matteo0003/m3fvm_disarm/blob/master/LICENSE.txt
